@@ -1,31 +1,22 @@
-body {
-    background: rgb(255, 252, 51);
-    margin-left: =20px;
-    margin-right: 100px;
+.navbar {
+    background-color: aliceblue;
 }
 
-header {
-    margin-top: 30px;
+.quem-somos {
+    background-color: bisque;
+    color: navy;
 }
 
-h1 {
-    color: red;
-    font-family: fantasy;
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}   
+
+.parceiros {
+    background-color: rosybrown;
 }
 
-h2 {
-    font-family: fantasy;
-}
-
-p {
-    font-size: 18px;
-}
-
-.img_padrao {
-    margin-bottom: 20px;
-    width: 300px;
-}
-
-.logo {
-    width: 100px;
+.bg-footer {
+    background-color: black;
+    color: white;
 }
